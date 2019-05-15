@@ -2,7 +2,7 @@
 ### 一、 接入需要客户端、服务端参与开发
 ### 二、 接入文档 [android](https://github.com/aiwuyu-sdk/aiwuyu-android-sdk)，[iOS](https://github.com/aiwuyu-sdk/aiwuyu-iOS-sdk)，[java](https://github.com/aiwuyu-sdk/aiwuyu-server-sdk)
 ### 三、 联合登录配置申请
-#### 邮件申请方式
+#### 1、 邮件申请方式
 * 将生成好的RSA公钥或者MD5密钥发送至 caojiayao001@aiwuyu.com
 * 邮件发送模版
 ```
