@@ -13,5 +13,5 @@
 * 配置完成后会收到回执邮件，内容包含“渠道编码”信息
 * RSA密钥生成可参考支付宝生成工具(https://docs.open.alipay.com/291/106097/)
 ### 四、 联合登录交互逻辑
-![Image text](https://aiwuyu-cms-prd.oss-cn-hangzhou.aliyuncs.com/Pic/sdk-doc/%E7%88%B1%E7%89%A9%E8%AF%AD%E8%81%94%E5%90%88%E7%99%BB%E5%BD%95_20190515_2.png)
+![Image text](http://aiwuyu-cms-prd.oss-cn-hangzhou.aliyuncs.com/Pic/sdk-doc/union_login.png)
 
