@@ -13,7 +13,7 @@
 * 配置完成后会收到回执邮件，内容如下
 ```
   渠道编码：xxxx
-  首页地址：RSA\MD5
+  首页地址：https://h5.aiwuyu.com/awy/index.html?channel=xxx#/index
 ```
 * RSA密钥生成可参考支付宝生成工具(https://docs.open.alipay.com/291/106097/)
 ### 四、 联合登录交互逻辑
